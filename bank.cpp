@@ -64,7 +64,7 @@ p:
             pass += ch;
             cout << "*";
         }
-        if (email == "abcd@zmail.com" && pin == "1234" && pass == "abcd@1234")
+        if (email == "abcd@zmail.com" && pin == "1234" && pass == "abcd@123")
         {
             bank_management();
         }

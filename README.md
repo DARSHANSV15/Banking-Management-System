@@ -51,7 +51,7 @@ The Banking Management System project aims to create a robust software system fo
 4. **Use following credentials during user authentication**:
    - E-mail: abcd@zmail.com
    - PIN: 1234
-   - Password: abcd@1234
+   - Password: abcd@123
 
 ### Future Enhancements:
 
